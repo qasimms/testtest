@@ -1,0 +1,29 @@
+body{
+	background: #E3F1F2;
+	font-family:Monaco ;
+
+}
+#links ul{
+	float: right;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+#links{
+	overflow: auto;
+}
+table,tr,td{
+	border: 2px solid #777;
+}
+.backR{
+	background-image: url("https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000");
+}
+.g{
+	background-color: #5BD1C1  ;
+	color: #000000  ;
+}
+.logo img{
+	border-radius: 10000000000000000000000000000000000000000000000000000000px;
+}
